@@ -1,16 +1,30 @@
-### Hi there 👋
+<h2 align="left">Hi there👋! I'm Jana Alghamdi</h2> 
+<p><em>General computer science student at <a href="https://www.iau.edu.sa/en" target="_blank">Imam Abdulrahman Bin Faisal University</a></em></p>
 
-<!--
-**Janaalgh/Janaalgh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2 align="left">💻 Languages and Tools</h2>
+<div align="left">
+    <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++">
+    <img src="https://img.shields.io/badge/Jupyter-%23F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white" alt="Jupyter">
+    <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python">
+</div>
 
-Here are some ideas to get you started:
+<h2 align="left">📖 I am Currently Learning / Improving On</h2> 
+<div align="left">
+ <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" alt="Java">
+<img src="https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+</div>
+
+<h2 align="left">🔍 Connect with Me</h2> 
+<div align="left">
+    <a href="https://linkedin.com/in/jana-alghamdi-b68094259" target="_blank">
+        <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+    </a>
+</div>
+
+
+
+
+
+
