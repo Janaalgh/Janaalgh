@@ -1,5 +1,5 @@
 <h2 align="left">Hi there👋! I'm Jana Alghamdi  <img src="https://media.giphy.com/media/5WILqPq29TyIkVCSej/giphy.gif" width="35"> </h2> 
-<p><em>General computer science student at <a href="https://www.iau.edu.sa/en" target="_blank">Imam Abdulrahman Bin Faisal University</a></em></p>
+<p><em>General computer science student at <a href="https://www.iau.edu.sa/en" target="_blank">Imam Abdulrahman Bin Faisal University👩🏻‍💻</a></em></p>
 
 <h2 align="left">💻 Languages and Tools</h2>
 <div align="left">
@@ -14,7 +14,7 @@
     <img src="https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas">
 </div>
 
-<h2 align="left">🔍 Connect with Me</h2> 
+<h2 align="left">✨ Connect with Me</h2> 
 <div align="left">
     <a href="https://linkedin.com/in/jana-alghamdi-b68094259" target="_blank">
         <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
