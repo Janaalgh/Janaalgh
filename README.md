@@ -19,7 +19,7 @@
 
 <h2 align="left">✨ Connect with Me</h2> 
 <div align="left">
-    <a href="https://linkedin.com/in/jana-alghamdi-b68094259" target="_blank">
+    <a href="https://www.linkedin.com/in/janaalghamdi/" target="_blank">
         <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
     </a>
 </div>
