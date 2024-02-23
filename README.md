@@ -1,7 +1,7 @@
 
 
 
-<h2 align="left">Hi there👋! I'm Jana Alghamdi  <img src="https://media.giphy.com/media/5WILqPq29TyIkVCSej/giphy.gif" width="35"> </h2> 
+<h2 align="left">Hi there👋! I'm Jana Alghamdi  </h2> 
 <p><em>General computer science student at <a href="https://www.iau.edu.sa/en" target="_blank">Imam Abdulrahman Bin Faisal University</a></em></p>
 
 <h2 align="left">💻 Languages and Tools</h2>
