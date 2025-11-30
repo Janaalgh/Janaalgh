@@ -1,5 +1,5 @@
 <h2 align="left">Hi there👋! I'm Jana Alghamdi </h2>
-<p><em>General computer science student at <a href="https://www.iau.edu.sa/en" target="_blank">Imam Abdulrahman Bin Faisal University</a></em></p>
+<p><em>Cybersecurity and Digital Forensics student at <a href="https://www.iau.edu.sa/en" target="_blank">Imam Abdulrahman Bin Faisal University</a></em></p>
 
 <h2 align="left">💻 Languages and Tools</h2>
 <div align="left">
