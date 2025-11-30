@@ -17,9 +17,7 @@
     <img src="https://img.shields.io/badge/Nmap-%236C757D.svg?style=for-the-badge&logo=nmap&logoColor=white" alt="Nmap">
 </div>
 
-<div align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Janaalgh&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="GitHub Top Languages">
-</div>
+
 
 
 
