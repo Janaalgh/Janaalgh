@@ -1,4 +1,4 @@
-html
+
 <h2 align="left">Hi there👋! I'm Jana Alghamdi</h2>
 
 <p>
