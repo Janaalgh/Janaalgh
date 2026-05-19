@@ -45,7 +45,6 @@ html
   <li>Incident Response</li>
   <li>OT / ICS Security</li>
   <li>Threat Intelligence</li>
-  <li>Network Security</li>
 </ul>
 
 <h2 align="left">📖 Currently Learning / Improving On</h2>
