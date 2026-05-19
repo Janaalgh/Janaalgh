@@ -1,4 +1,4 @@
-```html
+html
 <h2 align="left">Hi there👋! I'm Jana Alghamdi</h2>
 
 <p>
@@ -14,14 +14,12 @@
 
 <div align="left">
 
-  <!-- Programming -->
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python">
 
   <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++">
 
   <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" alt="Java">
 
-  <!-- Data -->
   <img src="https://img.shields.io/badge/Jupyter-%23F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white" alt="Jupyter">
 
   <img src="https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas">
@@ -30,14 +28,12 @@
 
   <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn">
 
-  <!-- Cybersecurity -->
   <img src="https://img.shields.io/badge/Kali%20Linux-%235C6675.svg?style=for-the-badge&logo=kali-linux&logoColor=white" alt="Kali Linux">
 
   <img src="https://img.shields.io/badge/Wireshark-%231679A7.svg?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark">
 
   <img src="https://img.shields.io/badge/Nmap-%236C757D.svg?style=for-the-badge&logo=nmap&logoColor=white" alt="Nmap">
 
-  <!-- Embedded / OT -->
   <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" alt="Arduino">
 
 </div>
@@ -67,13 +63,3 @@
   <img src="https://img.shields.io/badge/Zeek-1F6FEB?style=for-the-badge&logoColor=white" alt="Zeek">
 
 </div>
-```
-
-
-
-
-
-
-
-
-
