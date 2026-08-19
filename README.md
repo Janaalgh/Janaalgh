@@ -36,7 +36,6 @@
   <li>Digital Forensics</li>
   <li>Incident Response</li>
   <li>OT / ICS Security</li>
-  <li>Threat Intelligence</li>
 </ul>
 
 <h2 align="left">📖 Currently Learning / Improving On</h2>
