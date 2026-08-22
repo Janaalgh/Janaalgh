@@ -23,7 +23,6 @@
   <img src="https://img.shields.io/badge/Nmap-%236C757D.svg?style=for-the-badge&logo=nmap&logoColor=white" alt="Nmap">
   <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" alt="Arduino">
   <img src="https://img.shields.io/badge/Autopsy-1B6CA8?style=for-the-badge&logoColor=white" alt="Autopsy">
-  <img src="https://img.shields.io/badge/The%20Sleuth%20Kit-2E8B57?style=for-the-badge&logoColor=white" alt="The Sleuth Kit">
   <img src="https://img.shields.io/badge/Volatility-4B0082?style=for-the-badge&logoColor=white" alt="Volatility">
   <img src="https://img.shields.io/badge/FTK%20Imager-A93226?style=for-the-badge&logoColor=white" alt="FTK Imager">
   <img src="https://img.shields.io/badge/Plaso%20%2F%20log2timeline-6D4C41?style=for-the-badge&logoColor=white" alt="Plaso / log2timeline">
