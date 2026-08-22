@@ -27,7 +27,6 @@
   <img src="https://img.shields.io/badge/Volatility-4B0082?style=for-the-badge&logoColor=white" alt="Volatility">
   <img src="https://img.shields.io/badge/FTK%20Imager-A93226?style=for-the-badge&logoColor=white" alt="FTK Imager">
   <img src="https://img.shields.io/badge/Plaso%20%2F%20log2timeline-6D4C41?style=for-the-badge&logoColor=white" alt="Plaso / log2timeline">
-  <img src="https://img.shields.io/badge/Eric%20Zimmerman%20Tools-34495E?style=for-the-badge&logoColor=white" alt="Eric Zimmerman Tools">
 </div>
 
 <h2 align="left">🛡️ Areas of Interest</h2>
